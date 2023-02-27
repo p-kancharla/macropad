@@ -4,4 +4,6 @@
   (lib (name "random-keyboard-parts")(type "Legacy")(uri "${KIPRJMOD}/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
   (lib (name "Type-C")(type "Legacy")(uri "${KIPRJMOD}/Type-C.pretty/Type-C.lib")(options "")(descr ""))
   (lib (name "Raspberry_Pi_Pico_W_SC0918")(type "KiCad")(uri "${KIPRJMOD}/Raspberry_Pi_Pico_W_Kicad_Files/Raspberry_Pi_Pico_W_SC0918.kicad_sym")(options "")(descr ""))
+  (lib (name "Regulator_Linear")(type "KiCad")(uri "C:/Users/pkanc/Documents/KiCad/7.0/symbols/Regulator_Linear.kicad_sym")(options "")(descr ""))
+  (lib (name "Display_Graphic")(type "KiCad")(uri "C:/Users/pkanc/Documents/KiCad/7.0/symbols/Display_Graphic.kicad_sym")(options "")(descr ""))
 )
