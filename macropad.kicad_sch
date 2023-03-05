@@ -2174,10 +2174,10 @@
     (property "Datasheet" "https://www.vishay.com/docs/37902/oled128o064dbpp3n00000.pdf" (at 106.68 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid 06765e6e-d666-45cf-846a-417926d982e8))
-    (pin "" (uuid 06765e6e-d666-45cf-846a-417926d982e8))
-    (pin "" (uuid 06765e6e-d666-45cf-846a-417926d982e8))
-    (pin "" (uuid 06765e6e-d666-45cf-846a-417926d982e8))
+    (pin "" (uuid 06765e6e-d666-45cf-846a-417926d982eb))
+    (pin "" (uuid 06765e6e-d666-45cf-846a-417926d982eb))
+    (pin "" (uuid 06765e6e-d666-45cf-846a-417926d982eb))
+    (pin "" (uuid 06765e6e-d666-45cf-846a-417926d982eb))
     (instances
       (project "macropad"
         (path "/fab111b8-e2ae-48c3-a775-0687c4a3f553"
@@ -2279,10 +2279,10 @@
     (property "Datasheet" "http://datasheets.maximintegrated.com/en/ds/MAX5092-MAX5093.pdf" (at 44.45 182.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid ba90ae15-4773-493f-bd8a-628bfb686d4a))
-    (pin "" (uuid ba90ae15-4773-493f-bd8a-628bfb686d4a))
-    (pin "" (uuid ba90ae15-4773-493f-bd8a-628bfb686d4a))
-    (pin "" (uuid ba90ae15-4773-493f-bd8a-628bfb686d4a))
+    (pin "" (uuid ba90ae15-4773-493f-bd8a-628bfb686d4d))
+    (pin "" (uuid ba90ae15-4773-493f-bd8a-628bfb686d4d))
+    (pin "" (uuid ba90ae15-4773-493f-bd8a-628bfb686d4d))
+    (pin "" (uuid ba90ae15-4773-493f-bd8a-628bfb686d4d))
     (instances
       (project "macropad"
         (path "/fab111b8-e2ae-48c3-a775-0687c4a3f553"
@@ -2449,10 +2449,10 @@
     (property "Datasheet" "http://datasheets.maximintegrated.com/en/ds/MAX5092-MAX5093.pdf" (at 53.34 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid 047ff885-2859-4e3f-b46d-df56c4678723))
-    (pin "" (uuid 047ff885-2859-4e3f-b46d-df56c4678723))
-    (pin "" (uuid 047ff885-2859-4e3f-b46d-df56c4678723))
-    (pin "" (uuid 047ff885-2859-4e3f-b46d-df56c4678723))
+    (pin "" (uuid 047ff885-2859-4e3f-b46d-df56c4678726))
+    (pin "" (uuid 047ff885-2859-4e3f-b46d-df56c4678726))
+    (pin "" (uuid 047ff885-2859-4e3f-b46d-df56c4678726))
+    (pin "" (uuid 047ff885-2859-4e3f-b46d-df56c4678726))
     (instances
       (project "macropad"
         (path "/fab111b8-e2ae-48c3-a775-0687c4a3f553"
